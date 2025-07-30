@@ -9,5 +9,12 @@ import time
 from rich import print
 
 while True:
-
+    print("[red]Hello World")
+    sleep(.1)
+    print("[red]Hello World")
+    sleep(.1)
+    print("[red]Hello World")
+    sleep(.1)
+    print("[red]Hello World")
+    sleep(.1)
     pass # TODO - Replace this with your code!
