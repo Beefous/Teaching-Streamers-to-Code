@@ -11,10 +11,14 @@ from rich import print
 while True:
     print("[red]Hello World")
     sleep(.1)
-    print("[red]Hello World")
+    print("[orange]Hello World")
     sleep(.1)
-    print("[red]Hello World")
+    print("[yellow]Hello World")
     sleep(.1)
-    print("[red]Hello World")
+    print("[green]Hello World")
+    sleep(.1)
+    print("[blue]Hello World")
+    sleep(.1)
+    print("[purple]Hello World")
     sleep(.1)
     pass # TODO - Replace this with your code!
